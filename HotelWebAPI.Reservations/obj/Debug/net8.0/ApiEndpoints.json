@@ -1,0 +1,194 @@
+[
+  {
+    "ContainingType": "HotelWebAPI.Payments.Controllers.InvoiceController",
+    "Method": "Add",
+    "RelativePath": "hotelPayment/invoice/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Payments.Dtos.AddInvoiceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Payments.Controllers.PaymentController",
+    "Method": "Add",
+    "RelativePath": "hotelPayment/payment/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Payments.Dtos.AddPaymentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Payments.Controllers.RefundController",
+    "Method": "Add",
+    "RelativePath": "hotelPayment/refund/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Payments.Dtos.AddRefundDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Reservations.Controllers.DiscountController",
+    "Method": "Add",
+    "RelativePath": "hotelReservation/discount/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Reservations.Dtos.AddDiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Reservations.Controllers.DiscountController",
+    "Method": "Delete",
+    "RelativePath": "hotelReservation/discount/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Reservations.Controllers.DiscountController",
+    "Method": "Edit",
+    "RelativePath": "hotelReservation/discount/edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Reservations.Dtos.EditDiscountDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Reservations.Controllers.ReservationController",
+    "Method": "Add",
+    "RelativePath": "hotelReservation/reservation/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Reservations.Dtos.AddReservationDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Reservations.Controllers.ReservationController",
+    "Method": "Cancel",
+    "RelativePath": "hotelReservation/reservation/cancel",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Payments.Dtos.AddRefundDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Reservations.Controllers.ReservationController",
+    "Method": "Confirm",
+    "RelativePath": "hotelReservation/reservation/confirm/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Reservations.Controllers.UserController",
+    "Method": "Add",
+    "RelativePath": "hotelReservation/user/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Reservations.Dtos.AddUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Reservations.Controllers.UserController",
+    "Method": "Delete",
+    "RelativePath": "hotelReservation/user/delete/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Reservations.Controllers.UserController",
+    "Method": "Edit",
+    "RelativePath": "hotelReservation/user/edit",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Reservations.Dtos.EditUserDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

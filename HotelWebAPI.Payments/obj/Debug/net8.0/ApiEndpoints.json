@@ -1,0 +1,50 @@
+[
+  {
+    "ContainingType": "HotelWebAPI.Payments.Controllers.InvoiceController",
+    "Method": "Add",
+    "RelativePath": "hotelPayment/invoice/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Payments.Dtos.AddInvoiceDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Payments.Controllers.PaymentController",
+    "Method": "Add",
+    "RelativePath": "hotelPayment/payment/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Payments.Dtos.AddPaymentDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "HotelWebAPI.Payments.Controllers.RefundController",
+    "Method": "Add",
+    "RelativePath": "hotelPayment/refund/add",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "dto",
+        "Type": "HotelWebAPI.Payments.Dtos.AddRefundDto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

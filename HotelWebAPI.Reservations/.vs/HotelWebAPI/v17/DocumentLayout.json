@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Reservations\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53B0F640-7120-487A-8670-553AF51A5B04}|..\\HotelWebAPI.Payments\\HotelWebAPI.Payments.csproj|c:\\users\\admin\\desktop\\studia\\szkolenie techniczne 3\\projekt\\webapi\\hotelwebapi.payments\\controllers\\refundcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B0F640-7120-487A-8670-553AF51A5B04}|..\\HotelWebAPI.Payments\\HotelWebAPI.Payments.csproj|c:\\users\\admin\\desktop\\studia\\szkolenie techniczne 3\\projekt\\webapi\\hotelwebapi.payments\\controllers\\invoicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B0F640-7120-487A-8670-553AF51A5B04}|..\\HotelWebAPI.Payments\\HotelWebAPI.Payments.csproj|c:\\users\\admin\\desktop\\studia\\szkolenie techniczne 3\\projekt\\webapi\\hotelwebapi.payments\\controllers\\paymentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0AA9F4-84DA-4719-B0B6-5379CB642839}|HotelWebAPI.Reservations.csproj|c:\\users\\admin\\desktop\\studia\\szkolenie techniczne 3\\projekt\\webapi\\hotelwebapi.reservations\\controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0AA9F4-84DA-4719-B0B6-5379CB642839}|HotelWebAPI.Reservations.csproj|solutionrelative:controllers\\reservationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B0F640-7120-487A-8670-553AF51A5B04}|..\\HotelWebAPI.Payments\\HotelWebAPI.Payments.csproj|c:\\users\\admin\\desktop\\studia\\szkolenie techniczne 3\\projekt\\webapi\\hotelwebapi.payments\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B0F640-7120-487A-8670-553AF51A5B04}|..\\HotelWebAPI.Payments\\HotelWebAPI.Payments.csproj|c:\\users\\admin\\desktop\\studia\\szkolenie techniczne 3\\projekt\\webapi\\hotelwebapi.payments\\services\\refundservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC0AA9F4-84DA-4719-B0B6-5379CB642839}|HotelWebAPI.Reservations.csproj|c:\\users\\admin\\desktop\\studia\\szkolenie techniczne 3\\projekt\\webapi\\hotelwebapi.reservations\\extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AC0AA9F4-84DA-4719-B0B6-5379CB642839}|HotelWebAPI.Reservations.csproj|solutionrelative:extensions\\servicecollectionextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B0F640-7120-487A-8670-553AF51A5B04}|..\\HotelWebAPI.Payments\\HotelWebAPI.Payments.csproj|c:\\users\\admin\\desktop\\studia\\szkolenie techniczne 3\\projekt\\webapi\\hotelwebapi.payments\\dtos\\addrefunddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53B0F640-7120-487A-8670-553AF51A5B04}|..\\HotelWebAPI.Payments\\HotelWebAPI.Payments.csproj|c:\\users\\admin\\desktop\\studia\\szkolenie techniczne 3\\projekt\\webapi\\hotelwebapi.payments\\services\\invoiceservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebAPI.Payments\\Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "..\\HotelWebAPI.Payments\\Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:28:33.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ServiceCollectionExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Reservations\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeDocumentMoniker": "Extensions\\ServiceCollectionExtension.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Reservations\\Extensions\\ServiceCollectionExtension.cs",
+              "RelativeToolTip": "Extensions\\ServiceCollectionExtension.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:28:29.293Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReservationController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Reservations\\Controllers\\ReservationController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ReservationController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Reservations\\Controllers\\ReservationController.cs",
+              "RelativeToolTip": "Controllers\\ReservationController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAiwCQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:25:31.267Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AddRefundDto.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Dtos\\AddRefundDto.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebAPI.Payments\\Dtos\\AddRefundDto.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Dtos\\AddRefundDto.cs",
+              "RelativeToolTip": "..\\HotelWebAPI.Payments\\Dtos\\AddRefundDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:24:04.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RefundService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Services\\RefundService.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebAPI.Payments\\Services\\RefundService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Services\\RefundService.cs",
+              "RelativeToolTip": "..\\HotelWebAPI.Payments\\Services\\RefundService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:22:21.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RefundController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Controllers\\RefundController.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebAPI.Payments\\Controllers\\RefundController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Controllers\\RefundController.cs",
+              "RelativeToolTip": "..\\HotelWebAPI.Payments\\Controllers\\RefundController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:22:10.965Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Controllers\\PaymentController.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebAPI.Payments\\Controllers\\PaymentController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Controllers\\PaymentController.cs",
+              "RelativeToolTip": "..\\HotelWebAPI.Payments\\Controllers\\PaymentController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:21:59.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvoiceController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Controllers\\InvoiceController.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebAPI.Payments\\Controllers\\InvoiceController.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Controllers\\InvoiceController.cs",
+              "RelativeToolTip": "..\\HotelWebAPI.Payments\\Controllers\\InvoiceController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:21:56.664Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "InvoiceService.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Services\\InvoiceService.cs",
+              "RelativeDocumentMoniker": "..\\HotelWebAPI.Payments\\Services\\InvoiceService.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\STUDIA\\Szkolenie Techniczne 3\\Projekt\\WebApi\\HotelWebAPI.Payments\\Services\\InvoiceService.cs",
+              "RelativeToolTip": "..\\HotelWebAPI.Payments\\Services\\InvoiceService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T08:21:54.077Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
