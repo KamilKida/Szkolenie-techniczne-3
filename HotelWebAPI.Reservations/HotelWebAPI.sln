@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36203.30
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelWebAPI.Reservations", "HotelWebAPI.Reservations.csproj", "{AC0AA9F4-84DA-4719-B0B6-5379CB642839}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelWebAPI.Payments", "..\HotelWebAPI.Payments\HotelWebAPI.Payments.csproj", "{6243421E-CF01-4234-B4B0-343419062607}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AC0AA9F4-84DA-4719-B0B6-5379CB642839}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC0AA9F4-84DA-4719-B0B6-5379CB642839}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC0AA9F4-84DA-4719-B0B6-5379CB642839}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC0AA9F4-84DA-4719-B0B6-5379CB642839}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6243421E-CF01-4234-B4B0-343419062607}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6243421E-CF01-4234-B4B0-343419062607}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6243421E-CF01-4234-B4B0-343419062607}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6243421E-CF01-4234-B4B0-343419062607}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {524C4DC6-0CEF-4E0C-807B-720E7B192E78}
+	EndGlobalSection
+EndGlobal
